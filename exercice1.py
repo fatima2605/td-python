@@ -1,4 +1,4 @@
-note =float (input("entrez votre note (entre 0 et 20) : "))
+note =float (input("entrez votre note (entre 0 et 20) : "))   #GOOD JOB 
 if note >= 18:
     print("Exellent")
 elif 16<=note<18:
