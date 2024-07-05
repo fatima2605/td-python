@@ -10,4 +10,4 @@ elif 12<=note < 14:
 elif 10<=note < 12:
     print("passable")
 else :
-    print("echec")
+    print("echec cest pas bon")
